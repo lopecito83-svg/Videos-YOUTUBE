@@ -17,6 +17,16 @@ Objetivo del episodio: enseñar de forma clara y sin asustar las 5 reglas de seg
 - Reusar el **Reference Element** ya creado (`Monguito-y-Ripiur`, element_id `25eb2005-20af-4a4f-8436-1423db4c9ad8`) en todos los prompts de imagen para mantener consistencia con el episodio 01.
 - Antes de generar las escenas de Tomás y sus papás, generar primero **su ficha de personajes** (prompt más abajo) y guardarla también como Reference Element (ej. nombre `Tomas-y-familia`) para mantenerlos iguales en todas las escenas.
 
+### Elementos de referencia ya creados (prueba de consistencia)
+
+- **Monguito-y-Ripiur** → element_id `25eb2005-20af-4a4f-8436-1423db4c9ad8` (mismo del episodio 1)
+- **Tomas-y-familia** → element_id `5446c658-de82-41a5-a8f9-d00d7559ed45`
+  Ficha: https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260727_140920_976f313a-4686-42da-a907-20b586262916.png
+
+Se probó combinar **ambos elementos en el mismo prompt** (insertando `<<<25eb2005-20af-4a4f-8436-1423db4c9ad8>>>` y `<<<5446c658-de82-41a5-a8f9-d00d7559ed45>>>` juntos) para la Escena 6 y funcionó correctamente, manteniendo la identidad de los 3 personajes en la misma toma:
+
+- Escena 6 (Ripiur habla con Tomás): https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260727_141003_1920cb3b-fb82-4ea0-930b-edb21fa65b32.png
+
 ### Prompt base de consistencia (pegar SIEMPRE al final de cada prompt de imagen)
 
 ```
