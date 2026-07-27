@@ -23,9 +23,29 @@ Objetivo del episodio: enseñar de forma clara y sin asustar las 5 reglas de seg
 - **Tomas-y-familia** → element_id `5446c658-de82-41a5-a8f9-d00d7559ed45`
   Ficha: https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260727_140920_976f313a-4686-42da-a907-20b586262916.png
 
-Se probó combinar **ambos elementos en el mismo prompt** (insertando `<<<25eb2005-20af-4a4f-8436-1423db4c9ad8>>>` y `<<<5446c658-de82-41a5-a8f9-d00d7559ed45>>>` juntos) para la Escena 6 y funcionó correctamente, manteniendo la identidad de los 3 personajes en la misma toma:
+Se probó combinar **ambos elementos en el mismo prompt** (insertando `<<<25eb2005-20af-4a4f-8436-1423db4c9ad8>>>` y `<<<5446c658-de82-41a5-a8f9-d00d7559ed45>>>` juntos) y funcionó correctamente en todas las escenas, manteniendo la identidad de los personajes.
 
-- Escena 6 (Ripiur habla con Tomás): https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260727_141003_1920cb3b-fb82-4ea0-930b-edb21fa65b32.png
+### Las 14 imágenes del episodio 2 — generadas
+
+| Escena | Descripción | Imagen |
+|---|---|---|
+| Fichas | Tomás y familia (character sheet) | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260727_140920_976f313a-4686-42da-a907-20b586262916.png |
+| 1 | Multitud, Tomás mirando alrededor | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260727_143547_e81e1ac8-fadf-43bc-8774-43efd14852f3.png |
+| 2 | Familia paseando, perrito militar | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260727_143549_fd903172-ed71-4aed-b938-bcc7d7617a11.png |
+| 3 | Tomás solo entre la gente | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260727_143552_1d78c9f4-d438-4dce-9c4b-aad34f247726.png |
+| 4 | Tomás se da cuenta, Regla Nº1 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260727_143554_76281975-2d16-481c-9abe-5c88464ccea2.png |
+| 5 | Monguito y Ripiur en patrulla | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260727_143656_32e811d3-4bb3-41f2-8b28-cef37a50307e.png |
+| 6 | Ripiur habla con Tomás (Regla Nº2) | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260727_141003_1920cb3b-fb82-4ea0-930b-edb21fa65b32.png |
+| 7 | La pulserita (Regla Nº3) | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260727_143659_a92e8aba-aeea-458e-b86f-947fd1b58249.png |
+| 8 | Flashback: nene genérico gritando (Regla Nº4) | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260727_143701_691a7ca3-3496-4b2a-8a3e-1ccd5653c364.png |
+| 9 | Ripiur por radio | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260727_143703_d1090c32-46ba-445d-a090-bccce1bd0cc7.png |
+| 10 | Los papás escuchan el anuncio | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260727_143712_8388fd32-8ab1-4aae-9f86-453c40997ea9.png |
+| 11 | El reencuentro | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260727_143715_451173a1-d6bb-450a-858b-c516b87cebb4.png |
+| 12 | Agradecimiento, Regla Nº5 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260727_143718_723fe47f-8085-47ab-8a94-bc1e05c02ee8.png |
+| 13 | Infografía 5 Reglas de Oro | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260727_143726_7268c4a3-0296-48e2-a67e-e5c749d5ce4c.png |
+| 14 | Cierre, despedida | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260727_143720_5e16602b-dbc4-4499-bc01-f3ccb230d6c5.png |
+
+Costo total: 15 imágenes (2 fichas + 13 escenas) x 2 créditos = **30 créditos** en `nano_banana_pro` (resuelto internamente como `nano_banana_2`), resolución 1k.
 
 ### Prompt base de consistencia (pegar SIEMPRE al final de cada prompt de imagen)
 
