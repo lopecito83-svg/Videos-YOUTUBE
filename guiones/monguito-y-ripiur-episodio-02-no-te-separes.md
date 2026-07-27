@@ -534,6 +534,33 @@ risas. Freeze-frame final tipo "foto de cierre".
 
 ---
 
+## 4bis. VIDEO FINAL ARMADO — LISTO PARA PUBLICAR
+
+**https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260727_153927_4967665c-01eb-4e30-9b24-a14f76365dfe.mp4**
+
+Video único (1280x720) armado con `explainer_video` de Higgsfield: une los 14 clips de la sección 4 en orden, con narración en off (voz "Marisol", `seed_audio`) y subtítulos quemados (fuente "patrick"). Duración total ≈ 105-115 segundos (formato corto, redefinido junto al usuario por costo real de producción). Costo de esta etapa: ~10.6 créditos (narración + subtítulos; el armado de clips en sí es gratis).
+
+Guion de narración corta usado en este armado (una frase por bloque/escena, en el mismo orden que la tabla de la sección 4):
+
+1. "Tomás fue con sus papás a la jornada de la base, pero en medio de tanta gente, los perdió de vista."
+2. "Todo empezó cuando Tomás soltó la mano de su mamá para seguir a un perrito que pasó corriendo."
+3. "Sin darse cuenta, se alejó cada vez más, hasta que ya no reconoció el lugar."
+4. "Cuando se dio cuenta de que estaba perdido, hizo lo correcto: se quedó quieto, sin caminar más. Esa es la Regla de Oro número uno."
+5. "Monguito y Ripiur, de patrulla por la jornada, notaron a un nene solo y sentado."
+6. "Se acercaron con calma. Buscar a alguien con uniforme es siempre una buena idea si te perdés. Regla de Oro número dos."
+7. "Tomás sabía su nombre completo y el teléfono de sus papás. Eso ayuda muchísimo a encontrarlos rápido. Regla de Oro número tres."
+8. "Si necesitás ayuda, gritar fuerte es mejor que correr entre la gente. Regla de Oro número cuatro."
+9. "Ripiur avisó por radio a toda la base para encontrar a la familia de Tomás."
+10. "Sus papás escucharon el anuncio y corrieron hacia el puesto de control."
+11. "¡Por fin se reencontraron! Un abrazo enorme para cerrar el susto."
+12. "Y antes de salir, siempre es bueno acordar un punto de encuentro con tus papás, por si acaso. Regla de Oro número cinco."
+13. "Recordemos las cinco Reglas de Oro: quedate quieto, buscá a alguien con uniforme, sabé tus datos, pedí ayuda gritando, y acordá un punto de encuentro."
+14. "Así aprendimos con Monguito y Ripiur qué hacer si nos perdemos. ¡Nos vemos en la próxima aventura!"
+
+> Nota: a partir de este video, el "guion largo" (25-28 min) de las secciones 2-3 queda como *material de referencia narrativa y de arte* (diálogos, prompts de imagen/video detallados), pero el **video final publicable usa el guion corto de arriba**, ajustado al formato de ~2 minutos acordado con el usuario por costo real de producción.
+
+---
+
 ## 4. VIDEOS GENERADOS EN SEEDANCE 2.0 (720p / modo fast)
 
 Los 14 clips de este video ya están generados (image-to-video, a partir de las 14 imágenes de la sección 3). Duración 7-10s cada uno según lo indicado en el guion de cada escena.
