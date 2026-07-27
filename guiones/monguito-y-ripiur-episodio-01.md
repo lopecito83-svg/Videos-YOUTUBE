@@ -30,6 +30,21 @@ tipo ilustración editorial de humor gráfico
 
 > Tip: en Higgsfield, subí la imagen de referencia que ya tenés (Monguito y Ripiur riendo en la montaña) como **elemento/referencia de personaje** ("reference element", no Soul, porque son 2 personajes en la misma toma) y usala en cada generación para mantener la cara, el uniforme y las proporciones idénticas escena a escena.
 
+### Elemento de referencia ya creado (prueba de consistencia)
+
+Se generó la ficha de personajes con `nano_banana_pro` y se guardó como **Reference Element** en Higgsfield:
+
+- **Nombre:** `Monguito-y-Ripiur`
+- **element_id:** `25eb2005-20af-4a4f-8436-1423db4c9ad8`
+- **Ficha base:** https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260727_135601_33a5bac9-fd61-43fb-b844-25ad5a88522c.png
+
+Para reusar la identidad en cualquier prompt de imagen, insertá `<<<25eb2005-20af-4a4f-8436-1423db4c9ad8>>>` dentro del texto del prompt (Higgsfield lo reemplaza automáticamente por la referencia visual). Se probó con 2 escenas del episodio 1 y el resultado mantiene cara, uniforme y proporciones:
+
+- Escena 8 (cóndor): https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260727_135651_b2dea7a8-c071-4eea-b12a-6f84e410454a.png
+- Escena 10 (rescate): https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260727_135653_f066ec6f-205a-4b1d-a0b1-c94d0dd815c3.png
+
+Modelo usado: `nano_banana_pro` (resuelve internamente a `nano_banana_2`), 2 créditos por imagen a resolución 1k.
+
 ---
 
 ## 1. FICHA DE PERSONAJES
