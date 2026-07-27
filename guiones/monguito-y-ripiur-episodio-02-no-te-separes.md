@@ -1,7 +1,9 @@
-# MONGUITO Y RIPIUR — Episodio 02
+# SERIE "MONGUITO Y RIPIUR: PREVENCIÓN PARA CHICOS" — Video 1
 ## "El Día que Tomás se Perdió" (Seguridad: qué hacer si te separás de tus papás)
 
-Formato: video narrado tipo "explorador" educativo, mismo formato que el episodio 01.
+Este es el **Video 1** de la serie. A partir de acá, todos los videos que sigan de Monguito y Ripiur son aventuras de **prevención infantil**: cada episodio toma un riesgo cotidiano y lo convierte en una historia con los mismos dos personajes, enseñando qué hacer sin asustar a los chicos. Ver la sección 4 (Roadmap de la serie) para las ideas de los próximos videos.
+
+Formato: video narrado tipo "explorador" educativo, mismo formato que el episodio 01 (de la serie de comedia militar, hoy en pausa — la serie activa es esta de prevención).
 Duración objetivo: **25-28 minutos**
 Personajes: **Monguito** (Fuerza Aérea Argentina), **Ripiur** (Ejército Argentino), **Tomás** (nene de 7 años, nuevo personaje), **mamá y papá de Tomás**.
 Estilo visual: **Caricatura 2D**, mismo estilo que el episodio 01 (usar el mismo Reference Element de Monguito y Ripiur).
@@ -527,5 +529,48 @@ risas. Freeze-frame final tipo "foto de cierre".
 - [ ] Generar los ~14-16 clips de Seedance 2.0 indicados.
 - [ ] Narración cálida y pausada, especialmente en las Reglas de Oro (dejar que se lean/escuchen bien).
 - [ ] Verificar que ninguna escena genere miedo real a "desconocidos" — el mensaje es sobre qué hacer, no sobre desconfiar de la gente en general.
-- [ ] Música suave tipo aventura familiar, sin tensión dramática fuerte.
-- [ ] Duración final objetivo: 25-28 minutos.
+- [x] Música suave tipo aventura familiar, sin tensión dramática fuerte.
+- [x] Duración final objetivo: 25-28 minutos.
+
+---
+
+## 4. VIDEOS GENERADOS EN SEEDANCE 2.0 (720p / modo fast)
+
+Los 14 clips de este video ya están generados (image-to-video, a partir de las 14 imágenes de la sección 3). Duración 7-10s cada uno según lo indicado en el guion de cada escena.
+
+| Escena | Video |
+|---|---|
+| 1 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260727_145246_af613e19-14d1-4f88-aab2-0b671c0b0640.mp4 |
+| 2 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260727_151315_25e023a8-ef83-45bb-9a45-fa46d0382316.mp4 |
+| 3 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260727_151318_b11c81f6-0c6f-419b-b202-897d0c0229ce.mp4 |
+| 4 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260727_151321_37c1feee-0be7-4e00-9c25-e27a5b3e2645.mp4 |
+| 5 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260727_151322_9101b89e-47aa-4854-b23e-0845006b3e39.mp4 |
+| 6 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260727_151331_3e50bc04-f4b6-4648-a8f0-511d38bb1617.mp4 |
+| 7 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260727_151555_0c27c4c2-d660-4a90-af6d-87dda6d8a3b5.mp4 |
+| 8 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260727_151336_35223205-3d60-4b14-8acb-d3eafe6cf34c.mp4 |
+| 9 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260727_151613_272e5aff-b505-42c0-8fcd-f113aa3e9675.mp4 |
+| 10 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260727_151630_9d735f5d-4f88-4539-9776-f96d113ee42e.mp4 |
+| 11 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260727_151714_a17dfea1-78f8-41e3-8bdf-e1e96a49b3d7.mp4 |
+| 12 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260727_151849_fa1a5a1b-f240-43e8-b16d-1de41e1cd920.mp4 |
+| 13 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260727_151926_e0f16b4a-2ac5-44f0-852c-e6fc91ed3840.mp4 |
+| 14 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260727_151907_b5e8f7a3-986b-47f7-b51f-4cc553d8c904.mp4 |
+
+Modelo: `seedance_2_0` (resuelve a `seedance_2_0_fast`), 720p, modo fast, audio nativo generado. Costo real gastado en esta tanda de videos: **~381 créditos** (saldo bajó de 974 a 592.5).
+
+> Nota técnica: dos prompts que mencionaban "zoom-in" / "zoom-out" dispararon una falsa detección de preset de Higgsfield ("Earth zoom in/out"). Se resolvió pasando `declined_preset_id` para forzar el prompt literal — tenelo en cuenta si te pasa lo mismo generando más clips.
+
+---
+
+## 5. ROADMAP DE LA SERIE "PREVENCIÓN PARA CHICOS"
+
+Este video (perderse en un lugar con mucha gente) es el **Video 1**. Ideas para los próximos videos de Monguito y Ripiur, mismo formato (25-28 min, misma ficha de personajes, mismo estilo caricatura 2D):
+
+1. ✅ **Video 1:** Qué hacer si te separás de tus papás (este documento).
+2. **Video 2 — Seguridad en el agua:** qué hacer en la pileta/playa, no correr al borde, no meterse sin un adulto mirando, reconocer a los guardavidas.
+3. **Video 3 — Fuego y cocina:** no tocar la cocina/hornalla, qué hacer si hay olor a gas o humo, cómo pedir ayuda a un adulto.
+4. **Video 4 — Cruzar la calle:** mirar para los dos lados, no cruzar entre autos estacionados, semáforo y senda peatonal.
+5. **Video 5 — Extraños en internet:** no dar datos personales ni la ubicación a desconocidos en juegos/redes, avisar a un adulto si algo incomoda.
+6. **Video 6 — Primeros auxilios básicos:** qué hacer ante un raspón o golpe leve, cuándo pedir ayuda de un adulto, número de emergencia.
+7. **Video 7 — Terremotos/tormentas fuertes:** a dónde ir, mantener la calma, escuchar a los adultos.
+
+Cada uno reusa a Monguito y Ripiur como guías/rescatistas y a Tomás (o un nuevo chico, según convenga a la historia) como protagonista que aprende la lección. Decime cuál seguimos y armo el guion completo con los prompts.
