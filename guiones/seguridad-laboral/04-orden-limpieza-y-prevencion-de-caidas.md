@@ -151,6 +151,25 @@ Soy el Lic. Antonio Diego López, y nos vemos en el próximo video.
 ## NOTAS DE PRODUCCIÓN PARA ESTE EPISODIO
 
 - Incluir la tarjeta de firma final (Lic. Antonio Diego LOPEZ) al cierre: https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_134451_34342352-f934-4eaa-98df-156770ecf7d3.png
+
+## GRÁFICOS DE APOYO GENERADOS (Higgsfield, estilo infografía corporativa)
+
+| Marca en el guion | Imagen |
+|---|---|
+| Título del episodio | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_140937_4ecf589c-b8ed-4122-9d7e-f02d23a55bcb.png |
+| Espacio desordenado con riesgos marcados | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_140946_74de9742-78f2-46d5-b331-cc32a60a6613.png |
+| Antes / Después de aplicar 5S | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_140951_0392964c-0e63-4700-9578-2b776d28f99c.png |
+| Panel de herramientas con siluetas | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_140954_4e68fb03-984e-41f0-bb48-df20c1460029.png |
+| Checklist de limpieza con foto de referencia | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_141123_bf9e65f9-1a77-4557-9524-d016ef748ef0.png |
+| Ciclo de las 5 S | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_141129_a8fcb9d8-3908-422a-9dc8-f89fd012e7d8.png |
+| Resbalón vs Tropiezo | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_141133_d06badb8-e609-4e91-8c15-9a39f06a7dd4.png |
+| Checklist prevención de resbalones | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_141137_2f57ba99-b731-4e69-a319-e400e92151a4.png |
+| Checklist prevención de tropiezos | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_141147_86d2956a-7186-4c2b-87d0-a7ed745751d8.png |
+| Lista de 4 errores comunes | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_141150_75bd684e-e2e7-457d-a265-3dc46ba99d69.png |
+| Checklist de 5 preguntas | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_141155_9113e842-c1c8-422d-bf9a-1d3b2313d409.png |
+| Tarjeta de firma final | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_134451_34342352-f934-4eaa-98df-156770ecf7d3.png |
+
+Costo: 11 imágenes nuevas x 2 créditos = 22 créditos.
 - Palabras aproximadas: ~4.100, equivalente a 26-28 minutos a ritmo de presentador.
 - Gráficos de apoyo sugeridos: fotos antes/después de aplicar 5S, panel de herramientas con siluetas, esquemas de resbalón vs tropiezo, checklists de prevención.
 - Se puede grabar con ejemplos reales de un espacio de trabajo (con autorización), mostrando tanto buenas prácticas como puntos de mejora concretos.
