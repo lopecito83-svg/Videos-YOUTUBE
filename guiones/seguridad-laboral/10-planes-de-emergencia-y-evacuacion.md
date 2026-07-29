@@ -137,6 +137,24 @@ Gracias por acompañarme en toda esta serie. Como dije al principio: la segurida
 ## NOTAS DE PRODUCCIÓN PARA ESTE EPISODIO
 
 - Incluir la tarjeta de firma final (Lic. Antonio Diego LOPEZ) al cierre: https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_134451_34342352-f934-4eaa-98df-156770ecf7d3.png
+
+## GRÁFICOS DE APOYO GENERADOS (Higgsfield, estilo infografía corporativa)
+
+| Marca en el guion | Imagen |
+|---|---|
+| Título del episodio | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_144818_8767ba5e-0941-4017-832e-52723a854cfc.png |
+| Evacuación practicada vs improvisada | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_150509_d50e39ea-3afa-4322-9511-a8e0a32b234a.png |
+| Plano con rutas principal/alternativa | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_150512_5e4a14c4-de42-4a5d-bb55-5c14a394cf86.png |
+| Checklist componentes de un plan | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_150459_c34c9b70-444f-4146-bd2a-7ed07e06285d.png |
+| Planta con coordinadores por sector | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_150621_e0f4ef18-b78a-4631-ac53-5a92cdc60c24.png |
+| Cuadro de roles clave | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_150625_8414b42c-7244-49c0-88ff-e2c933b9acf2.png |
+| Simulacro anunciado vs sorpresivo | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_150630_e45bb8bd-2d33-4f13-8699-e4249ca24baa.png |
+| Ciclo de mejora continua | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_150633_32050a6f-9a36-4e80-83e7-6a054cb32c0a.png |
+| Lista resumen de errores | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_150809_7e600e8f-be8f-4f3e-9cbf-fe171457e0c5.png |
+| Checklist de 5 preguntas | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_150812_5e9b3984-9636-4ed4-88b0-c1000eaa4b8c.png |
+| Tarjeta de firma final | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_134451_34342352-f934-4eaa-98df-156770ecf7d3.png |
+
+Costo: 10 imágenes nuevas x 2 créditos = 20 créditos.
 - Palabras aproximadas: ~4.150, equivalente a 27-29 minutos a ritmo de presentador.
 - Gráficos de apoyo sugeridos: plano de rutas de evacuación principal/alternativa, cuadro de roles clave, ciclo de mejora de simulacros.
 - Cierre de temporada: se puede aprovechar para un resumen visual rápido con las miniaturas o títulos de los 10 videos de la temporada, como refuerzo de continuidad de la serie.
