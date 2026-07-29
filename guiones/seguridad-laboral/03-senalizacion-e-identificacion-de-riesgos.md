@@ -161,6 +161,25 @@ Soy el Lic. Antonio Diego López, y nos vemos en el próximo video.
 ## NOTAS DE PRODUCCIÓN PARA ESTE EPISODIO
 
 - Incluir la tarjeta de firma final (Lic. Antonio Diego LOPEZ) al cierre: https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_134451_34342352-f934-4eaa-98df-156770ecf7d3.png
+
+## GRÁFICOS DE APOYO GENERADOS (Higgsfield, estilo infografía corporativa)
+
+| Marca en el guion | Imagen |
+|---|---|
+| Título del episodio | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_135437_a0e82f4a-633d-4875-8e2b-c5ee8098ed15.png |
+| Pasillo con señalización de evacuación | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_135442_953e4a5d-24ca-43ec-839c-0a45a5167926.png |
+| Ejemplos de señales rojas | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_135445_a0574a63-d328-4263-8112-9b5dcc791be7.png |
+| Ejemplos de señales amarillas | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_135450_67f499f5-195d-4307-b47a-fd7714315277.png |
+| Cuadro resumen de colores | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_135503_670225f4-fa1e-472b-82fc-c1789a5e296c.png |
+| Formas geométricas de señalización | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_135508_362d3f67-3d99-4ce8-a1fd-3d3da8595c7b.png |
+| Pictogramas GHS | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_135514_e60ae3a2-cd90-4cb9-a714-6348822978d5.png |
+| Persona observando riesgos activamente | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_135518_09a4f81b-f4c4-4b8d-a596-6209085e506b.png |
+| Las 5 categorías de observación | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_135532_3a32cd93-128a-4cdd-9903-50f6200c6215.png |
+| Lista de 4 errores comunes | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_135541_998aee0d-96d5-4fd2-9c55-c9afa615625a.png |
+| Checklist de 5 preguntas | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_135550_488bb353-524c-42f1-a477-bc1ba645202d.png |
+| Tarjeta de firma final | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_134451_34342352-f934-4eaa-98df-156770ecf7d3.png |
+
+Costo: 11 imágenes nuevas x 2 créditos = 22 créditos.
 - Palabras aproximadas: ~4.050, equivalente a 26-28 minutos a ritmo de presentador.
 - Gráficos de apoyo sugeridos: cuadro de colores de señalización, formas geométricas, pictogramas GHS, las 5 categorías de observación de riesgos.
 - Si se graba en un lugar de trabajo real, se puede mostrar señalización efectiva junto con ejemplos de señalización mal mantenida (siempre con la autorización correspondiente del lugar).
