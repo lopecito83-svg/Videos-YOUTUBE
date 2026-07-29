@@ -208,3 +208,21 @@ Gracias por acompañarme, y como siempre digo: la seguridad no se improvisa, se 
 | Checklist de 5 preguntas | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_134121_13418f8d-90d0-4e36-81c5-ff405e9fbe28.png |
 
 Modelo: `nano_banana_pro` (resuelve a `nano_banana_2`), 1k, 2 créditos c/u = 22 créditos este video.
+
+## NARRACIÓN GENERADA (voz IA — Roman, ElevenLabs vía Higgsfield `text2speech_v2`)
+
+Voz elegida y aprobada por el usuario para toda la serie: **Roman** (masculina, motor ElevenLabs, `voice_id: 7e63ac18-5fcd-4aba-8078-a86d4e11c127`). Audio dividido por sección para facilitar el montaje con las imágenes de más arriba.
+
+| Sección | Duración | Audio |
+|---|---|---|
+| Gancho inicial | 1:13 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_154847_4f213d4e-2e43-4e2f-b0ef-faee250a1d76.mp3 |
+| Por qué importa | 2:09 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_154850_5369936e-9bb1-45bd-a7dd-25cdbc4c9f8f.mp3 |
+| Qué es la seguridad e higiene laboral | 2:39 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_154853_f89df54a-01d3-4cf7-81f6-1f6a1bf2d740.mp3 |
+| El marco legal | 2:44 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_155113_0652370c-c616-4350-b8cc-9259888f9ae6.mp3 |
+| Los tres pilares | 3:27 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_155116_f9261b45-855a-4a2c-8e71-9012ad91a22b.mp3 |
+| Errores comunes | 1:46 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_155119_595633d0-52f0-49ed-bff6-412494aaa96a.mp3 |
+| Checklist práctico | 1:04 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_155138_76ea14da-9a4c-461c-8b3d-b16418225548.mp3 |
+| Resumen de puntos clave | 1:17 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_155144_abb5b73a-f7c2-404b-b45f-1926af87051b.mp3 |
+| Cierre y llamado a la acción | 1:06 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_155147_c84ba0d3-69e3-4f1b-9fc8-8fcabed4287e.mp3 |
+
+**Duración total de narración: ~17 minutos.** Para armar el video final: reproducir cada audio en orden mientras se muestra en pantalla la imagen correspondiente de esa sección (con paneo/zoom lento tipo Ken Burns), cambiando de imagen en los puntos `[CORTE A: ...]` marcados dentro de cada sección del guion.
