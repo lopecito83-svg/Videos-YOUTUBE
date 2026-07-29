@@ -177,12 +177,15 @@ Mi invitación para esta semana es simple: llevá el checklist que repasamos a t
 
 Si este contenido te sirve, suscribite al canal y activá la campanita, porque se viene toda la serie completa. Nos vemos en el próximo video, donde vamos a hablar en profundidad de los Elementos de Protección Personal: cómo elegirlos bien, cómo usarlos correctamente, y por qué tantas veces fallan aunque estén puestos.
 
-Gracias por acompañarme, y como siempre digo: la seguridad no se improvisa, se construye. Nos vemos en el próximo.
+Gracias por acompañarme, y como siempre digo: la seguridad no se improvisa, se construye. Soy el Lic. Antonio Diego López, y nos vemos en el próximo.
+
+`[CORTE A: tarjeta de firma final - Lic. Antonio Diego LOPEZ]`
 
 ---
 
 ## NOTAS DE PRODUCCIÓN PARA ESTE EPISODIO
 
+- Incluir la tarjeta de firma final (Lic. Antonio Diego LOPEZ) al cierre: https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_134451_34342352-f934-4eaa-98df-156770ecf7d3.png
 - Palabras aproximadas del guion: ~4.100. A un ritmo de presentador pausado (140-150 palabras/minuto con pausas para respirar y cortes a gráficos), esto da entre 27 y 29 minutos de video hablado.
 - Sugerencia de gráficos de apoyo (pueden hacerse en Higgsfield o con cualquier herramienta de diseño): cifra global de la OIT, esquema peligro/riesgo, esquema incidente/accidente, pirámide de jerarquía de controles, esquema de los 3 pilares, checklist final.
 - Si graban esto como presentador a cámara: dejar pausas naturales después de cada pregunta retórica, y bajar el ritmo especialmente en la sección del marco legal (nombres de leyes) para que quede claro y no se atropelle.

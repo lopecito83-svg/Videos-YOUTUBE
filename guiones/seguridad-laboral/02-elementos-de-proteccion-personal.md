@@ -146,12 +146,15 @@ Este fue el segundo video de la serie. En el próximo vamos a hablar de señaliz
 
 Si todavía no te suscribiste, es un buen momento para hacerlo, porque se viene la serie completa. Y como siempre: revisá hoy mismo tu propio EPP, el de tu equipo, y si algo está vencido, dañado o mal usado, decilo. Nunca es una molestia, siempre es la decisión correcta.
 
-Nos vemos en el próximo video.
+Soy el Lic. Antonio Diego López, y nos vemos en el próximo video.
+
+`[CORTE A: tarjeta de firma final - Lic. Antonio Diego LOPEZ]`
 
 ---
 
 ## NOTAS DE PRODUCCIÓN PARA ESTE EPISODIO
 
+- Incluir la tarjeta de firma final (Lic. Antonio Diego LOPEZ) al cierre: https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_134451_34342352-f934-4eaa-98df-156770ecf7d3.png
 - Palabras aproximadas: ~4.150, equivalente a 27-29 minutos a ritmo de presentador.
 - Gráficos de apoyo sugeridos: silueta humana con EPP por zona, escala de decibeles, cuadro de tipos de guantes, comparaciones de uso correcto/incorrecto, checklist final.
 - Si se graba con EPP real de muestra en cámara (casco, guantes, protectores auditivos, arnés), el efecto didáctico mejora mucho — se puede mostrar cada elemento físicamente mientras se lo menciona.

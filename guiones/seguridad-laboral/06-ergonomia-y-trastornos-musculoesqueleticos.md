@@ -130,12 +130,15 @@ En el próximo video vamos a profundizar justamente en uno de estos factores: el
 
 Si te sirvió este video, suscribite y activá la campanita. Y el desafío de esta semana: revisá tu propio puesto de trabajo hoy mismo, ajustá lo que se pueda ajustar, y prestá atención a si aparece alguna molestia que hasta ahora venías ignorando.
 
-Nos vemos en el próximo video.
+Soy el Lic. Antonio Diego López, y nos vemos en el próximo video.
+
+`[CORTE A: tarjeta de firma final - Lic. Antonio Diego LOPEZ]`
 
 ---
 
 ## NOTAS DE PRODUCCIÓN PARA ESTE EPISODIO
 
+- Incluir la tarjeta de firma final (Lic. Antonio Diego LOPEZ) al cierre: https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_134451_34342352-f934-4eaa-98df-156770ecf7d3.png
 - Palabras aproximadas: ~4.100, equivalente a 26-28 minutos a ritmo de presentador.
 - Gráficos de apoyo sugeridos: siluetas de posturas forzadas, comparación de puesto mal/bien diseñado, checklists organizacionales e individuales.
 - Se puede grabar con demostración física de ajuste correcto de silla, pantalla y postura frente a una computadora.

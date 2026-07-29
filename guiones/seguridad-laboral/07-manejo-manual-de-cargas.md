@@ -120,12 +120,15 @@ En el próximo video de la serie vamos a hablar de primeros auxilios básicos en
 
 Si te sirvió este video, suscribite y activá la campanita. Y el desafío de esta semana: la próxima vez que levantes algo, aunque parezca liviano, prestale atención consciente a tu propia técnica. Con el tiempo, se vuelve un hábito automático que tu espalda te va a agradecer.
 
-Nos vemos en el próximo video.
+Soy el Lic. Antonio Diego López, y nos vemos en el próximo video.
+
+`[CORTE A: tarjeta de firma final - Lic. Antonio Diego LOPEZ]`
 
 ---
 
 ## NOTAS DE PRODUCCIÓN PARA ESTE EPISODIO
 
+- Incluir la tarjeta de firma final (Lic. Antonio Diego LOPEZ) al cierre: https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_134451_34342352-f934-4eaa-98df-156770ecf7d3.png
 - Palabras aproximadas: ~4.000, equivalente a 25-27 minutos a ritmo de presentador.
 - Gráficos de apoyo sugeridos: esquema de columna con carga bien/mal alineada, secuencia completa del levantamiento correcto, ejemplos de ayudas mecánicas.
 - Se recomienda fuertemente grabar una demostración física completa de la técnica de levantamiento, con una caja o bulto de práctica, mostrando cada paso en cámara.

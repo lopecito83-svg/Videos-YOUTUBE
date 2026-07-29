@@ -144,12 +144,15 @@ En el próximo video de la serie vamos a cambiar de tema y hablar de ergonomía 
 
 Si te sirvió este video, suscribite y activá la campanita. Mi desafío para esta semana: andá hasta el matafuego más cercano a tu puesto de trabajo, ahora que lo sabés, y fijate qué clase de fuego cubre. Es información que ojalá nunca necesites usar, pero que tenés que tener antes de necesitarla.
 
-Nos vemos en el próximo video.
+Soy el Lic. Antonio Diego López, y nos vemos en el próximo video.
+
+`[CORTE A: tarjeta de firma final - Lic. Antonio Diego LOPEZ]`
 
 ---
 
 ## NOTAS DE PRODUCCIÓN PARA ESTE EPISODIO
 
+- Incluir la tarjeta de firma final (Lic. Antonio Diego LOPEZ) al cierre: https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_134451_34342352-f934-4eaa-98df-156770ecf7d3.png
 - Palabras aproximadas: ~4.050, equivalente a 26-28 minutos a ritmo de presentador.
 - Gráficos de apoyo sugeridos: cuadro de clases de fuego, tabla clase de fuego/matafuego recomendado, secuencia de los 4 pasos de uso, checklist de señales para evacuar.
 - Idealmente grabar con un matafuego real en cámara (descargado o de práctica) para demostrar físicamente los 4 pasos de uso.

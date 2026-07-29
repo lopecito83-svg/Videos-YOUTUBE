@@ -152,12 +152,15 @@ En el próximo video de la serie vamos a profundizar justamente en uno de esos r
 
 Si te sirvió este video, suscribite y activá la campanita para no perderte el resto de la serie. Y el desafío de esta semana: la próxima vez que camines por tu lugar de trabajo, prestale atención real a la señalización, como si fuera la primera vez que la ves. Seguramente vas a notar algo que hace tiempo se te había vuelto invisible.
 
-Nos vemos en el próximo video.
+Soy el Lic. Antonio Diego López, y nos vemos en el próximo video.
+
+`[CORTE A: tarjeta de firma final - Lic. Antonio Diego LOPEZ]`
 
 ---
 
 ## NOTAS DE PRODUCCIÓN PARA ESTE EPISODIO
 
+- Incluir la tarjeta de firma final (Lic. Antonio Diego LOPEZ) al cierre: https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_134451_34342352-f934-4eaa-98df-156770ecf7d3.png
 - Palabras aproximadas: ~4.050, equivalente a 26-28 minutos a ritmo de presentador.
 - Gráficos de apoyo sugeridos: cuadro de colores de señalización, formas geométricas, pictogramas GHS, las 5 categorías de observación de riesgos.
 - Si se graba en un lugar de trabajo real, se puede mostrar señalización efectiva junto con ejemplos de señalización mal mantenida (siempre con la autorización correspondiente del lugar).

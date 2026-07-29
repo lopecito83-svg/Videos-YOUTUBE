@@ -128,12 +128,15 @@ Si les sirvió esta serie completa, ayúdenme a que llegue a más gente: compart
 
 Y el desafío final de esta temporada: llevá el tema de los simulacros a tu lugar de trabajo esta semana. Si nunca hicieron uno, proponelo. Si hace tiempo que no lo practican, es un buen momento para retomarlo.
 
-Gracias por acompañarme en toda esta serie. Como dije al principio: la seguridad no se improvisa, se construye. Nos vemos en la próxima temporada.
+Gracias por acompañarme en toda esta serie. Como dije al principio: la seguridad no se improvisa, se construye. Soy el Lic. Antonio Diego López, y nos vemos en la próxima temporada.
+
+`[CORTE A: tarjeta de firma final - Lic. Antonio Diego LOPEZ]`
 
 ---
 
 ## NOTAS DE PRODUCCIÓN PARA ESTE EPISODIO
 
+- Incluir la tarjeta de firma final (Lic. Antonio Diego LOPEZ) al cierre: https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_134451_34342352-f934-4eaa-98df-156770ecf7d3.png
 - Palabras aproximadas: ~4.150, equivalente a 27-29 minutos a ritmo de presentador.
 - Gráficos de apoyo sugeridos: plano de rutas de evacuación principal/alternativa, cuadro de roles clave, ciclo de mejora de simulacros.
 - Cierre de temporada: se puede aprovechar para un resumen visual rápido con las miniaturas o títulos de los 10 videos de la temporada, como refuerzo de continuidad de la serie.

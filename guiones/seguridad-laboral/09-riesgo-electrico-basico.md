@@ -140,12 +140,15 @@ En el próximo video, el último de esta primera temporada de la serie, vamos a 
 
 Si te sirvió este video, suscribite y activá la campanita. Y el desafío de esta semana: identificá dónde está la llave general de electricidad de tu lugar de trabajo, y fijate si conocés algún cable, enchufe o extensión en mal estado que todavía no reportaste.
 
-Nos vemos en el próximo video.
+Soy el Lic. Antonio Diego López, y nos vemos en el próximo video.
+
+`[CORTE A: tarjeta de firma final - Lic. Antonio Diego LOPEZ]`
 
 ---
 
 ## NOTAS DE PRODUCCIÓN PARA ESTE EPISODIO
 
+- Incluir la tarjeta de firma final (Lic. Antonio Diego LOPEZ) al cierre: https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_134451_34342352-f934-4eaa-98df-156770ecf7d3.png
 - Palabras aproximadas: ~4.150, equivalente a 27-29 minutos a ritmo de presentador.
 - **Incluir el aviso legal al inicio, leído textualmente a cámara.**
 - Gráficos de apoyo sugeridos: esquema de recorrido de corriente por el cuerpo, cable dañado vs en buen estado, secuencia de actuación frente a accidente eléctrico.

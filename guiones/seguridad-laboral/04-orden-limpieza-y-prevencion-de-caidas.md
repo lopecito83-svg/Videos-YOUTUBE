@@ -142,12 +142,15 @@ En el próximo video de la serie vamos a hablar de prevención de incendios y us
 
 Si te está sirviendo esta serie, suscribite y activá la campanita. Y el desafío de esta semana es simple: elegí un rincón de tu lugar de trabajo, aplicale las primeras tres S —Clasificar, Ordenar y Limpiar— y fijate cuánto cambia, no solo la sensación de orden, sino los riesgos que quedan a la vista una vez que se despeja el desorden habitual.
 
-Nos vemos en el próximo video.
+Soy el Lic. Antonio Diego López, y nos vemos en el próximo video.
+
+`[CORTE A: tarjeta de firma final - Lic. Antonio Diego LOPEZ]`
 
 ---
 
 ## NOTAS DE PRODUCCIÓN PARA ESTE EPISODIO
 
+- Incluir la tarjeta de firma final (Lic. Antonio Diego LOPEZ) al cierre: https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_134451_34342352-f934-4eaa-98df-156770ecf7d3.png
 - Palabras aproximadas: ~4.100, equivalente a 26-28 minutos a ritmo de presentador.
 - Gráficos de apoyo sugeridos: fotos antes/después de aplicar 5S, panel de herramientas con siluetas, esquemas de resbalón vs tropiezo, checklists de prevención.
 - Se puede grabar con ejemplos reales de un espacio de trabajo (con autorización), mostrando tanto buenas prácticas como puntos de mejora concretos.

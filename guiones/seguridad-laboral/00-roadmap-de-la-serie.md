@@ -9,6 +9,7 @@ Serie de capacitación en seguridad e higiene laboral para YouTube. Aplica a cua
 - **Duración objetivo:** mínimo 25 minutos de video hablado por episodio (guiones de ~3.800-4.300 palabras, calculado a un ritmo natural de presentador de ~145-155 palabras por minuto incluyendo pausas).
 - **Estructura fija de cada episodio:** Gancho inicial → Por qué importa (datos/consecuencias) → Desarrollo del tema en bloques → Errores comunes → Checklist práctico → Resumen de puntos clave → Cierre y llamado a la acción.
 - Si más adelante querés apoyo visual (infografías, animaciones, B-roll) generado con Higgsfield/Seedance para acompañar la voz real, lo armamos aparte — no está incluido en estos guiones de narración.
+- **Firma de cierre:** todos los videos de la serie terminan con la firma **Lic. Antonio Diego LOPEZ.-**, tanto dicha a cámara en el cierre como con una tarjeta visual de firma. Imagen de la tarjeta (reutilizable en los 10 videos): https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_134451_34342352-f934-4eaa-98df-156770ecf7d3.png
 
 ## Los 10 videos de la temporada 1
 
