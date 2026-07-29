@@ -174,6 +174,23 @@ Soy el Lic. Antonio Diego López, y nos vemos en el próximo video.
 | Tarjeta de firma final | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_134451_34342352-f934-4eaa-98df-156770ecf7d3.png |
 
 Costo: 11 imágenes nuevas x 2 créditos = 22 créditos (`nano_banana_pro`, 1k).
+
+## NARRACIÓN GENERADA (voz IA — Roman, ElevenLabs vía Higgsfield `text2speech_v2`)
+
+| Sección | Duración | Audio |
+|---|---|---|
+| Gancho inicial | 1:04 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_155648_b51430a2-2179-4107-9f46-7d8fa41a075d.mp3 |
+| Por qué importa: EPP como última línea de defensa | 1:02 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_155652_f24e9842-5116-4530-8670-a6b5f5a05cf2.mp3 |
+| Las grandes categorías de EPP | 4:46 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_155655_30e1f194-1fd7-4c33-8296-53d34e6e0251.mp3 |
+| Cómo se elige el EPP correcto | 1:54 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_155715_69fc9b02-be3c-4be7-969d-ee337d20550c.mp3 |
+| Uso y mantenimiento correcto | 2:10 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_155721_bc0e19e9-a69a-416a-9b06-0cef03bfb470.mp3 |
+| Errores comunes | 1:18 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_155726_060a1bd8-d9b9-415e-9a86-934db7e743b2.mp3 |
+| Checklist práctico | 0:38 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_155945_598a8fb0-b56c-4519-9ddf-15eda3ce3f7f.mp3 |
+| Resumen de puntos clave | 0:52 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_155948_b876081a-ee5d-47b8-8a90-d380f5c2997b.mp3 |
+| Cierre y llamado a la acción | 0:41 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_155951_df15c7f9-9fc9-4884-8841-2dd45a62375a.mp3 |
+
+Duración total de narración: ~14:24. Para armar el video final de 25+ minutos, combinar esta narración con las imágenes de apoyo listadas arriba (usando los marcadores `[CORTE A: ...]` como guía de timing), agregando pausas/B-roll adicional según necesidad del editor.
+
 - Palabras aproximadas: ~4.150, equivalente a 27-29 minutos a ritmo de presentador.
 - Gráficos de apoyo sugeridos: silueta humana con EPP por zona, escala de decibeles, cuadro de tipos de guantes, comparaciones de uso correcto/incorrecto, checklist final.
 - Si se graba con EPP real de muestra en cámara (casco, guantes, protectores auditivos, arnés), el efecto didáctico mejora mucho — se puede mostrar cada elemento físicamente mientras se lo menciona.
