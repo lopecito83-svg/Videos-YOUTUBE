@@ -187,3 +187,21 @@ Gracias por acompañarme, y como siempre digo: la seguridad no se improvisa, se 
 - Sugerencia de gráficos de apoyo (pueden hacerse en Higgsfield o con cualquier herramienta de diseño): cifra global de la OIT, esquema peligro/riesgo, esquema incidente/accidente, pirámide de jerarquía de controles, esquema de los 3 pilares, checklist final.
 - Si graban esto como presentador a cámara: dejar pausas naturales después de cada pregunta retórica, y bajar el ritmo especialmente en la sección del marco legal (nombres de leyes) para que quede claro y no se atropelle.
 - Este video es la base conceptual de toda la serie — los siguientes episodios van a referenciar constantemente "peligro/riesgo", "jerarquía de controles" y "los tres pilares", así que conviene que quede bien claro acá.
+
+## GRÁFICOS DE APOYO GENERADOS (Higgsfield, estilo infografía corporativa)
+
+| Marca en el guion | Imagen |
+|---|---|
+| Título del video / logo de la serie | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_134023_82f724fa-6637-4626-a91b-6bdd0575d88c.png |
+| Cifra global de la OIT | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_134028_bac55be7-8ace-4e21-9827-2088b920b8a2.png |
+| Costos directos vs indirectos | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_134033_31e58578-7dc0-4ac7-97b0-5ac71738477b.png |
+| Seguridad / Higiene (2 columnas) | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_134037_0c91793b-d778-408f-8671-29f80b309456.png |
+| Peligro → Riesgo → Incidente/Accidente | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_134048_863f1545-fa78-4b55-b748-b75327103469.png |
+| Ley 19.587 / Decreto 351/79 / Ley 24.557 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_134051_a8c27460-e614-402c-99f4-7f23f2458e78.png |
+| Responsabilidades Empleador/Trabajador | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_134057_9cb2bef8-7e7a-4f52-a5d7-58a036022924.png |
+| Pirámide jerarquía de controles | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_134100_8139d6bb-3702-46fe-8268-7ba72d754d68.png |
+| Los 3 pilares (3 columnas) | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_134114_d92ad8ef-dd0b-45ec-a34c-3765165e910f.png |
+| Lista de 4 errores comunes | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_134118_c266ce11-6b27-461c-b46a-29aa23e6aeb8.png |
+| Checklist de 5 preguntas | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_134121_13418f8d-90d0-4e36-81c5-ff405e9fbe28.png |
+
+Modelo: `nano_banana_pro` (resuelve a `nano_banana_2`), 1k, 2 créditos c/u = 22 créditos este video.
