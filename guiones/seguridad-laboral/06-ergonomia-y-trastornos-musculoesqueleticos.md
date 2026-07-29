@@ -139,6 +139,23 @@ Soy el Lic. Antonio Diego López, y nos vemos en el próximo video.
 ## NOTAS DE PRODUCCIÓN PARA ESTE EPISODIO
 
 - Incluir la tarjeta de firma final (Lic. Antonio Diego LOPEZ) al cierre: https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_134451_34342352-f934-4eaa-98df-156770ecf7d3.png
+
+## GRÁFICOS DE APOYO GENERADOS (Higgsfield, estilo infografía corporativa)
+
+| Marca en el guion | Imagen |
+|---|---|
+| Título del episodio | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_142515_270a0efe-b610-4c9f-8fe0-4572a8af893c.png |
+| Acumulación de microdaños en el tiempo | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_142520_4ee7ff02-053d-413f-874b-bd454b39fc50.png |
+| Posturas forzadas marcadas | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_142534_3304419d-c1a6-40f5-99f4-e7f6a0925c42.png |
+| Puesto mal diseñado vs correcto | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_142607_61b86c5c-0c95-40d9-bbcf-08df2edff6be.png |
+| Postura correcta frente a la computadora | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_142617_2ce0ef57-d245-4d52-a78a-074e148f81fa.png |
+| Checklist medidas organizacionales | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_142621_18d53b1e-4a7a-4f54-a344-82bc4fe0e2c4.png |
+| Checklist medidas individuales | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_142625_050f28f5-2366-4ff0-9477-3578bb591e63.png |
+| Lista resumen de errores | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_142628_8a6097b0-d794-47f4-b557-3e1f3ff01e73.png |
+| Checklist de 5 preguntas | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_142638_4c31a5ef-f70e-434b-be49-2791d5a0f547.png |
+| Tarjeta de firma final | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_134451_34342352-f934-4eaa-98df-156770ecf7d3.png |
+
+Costo: 9 imágenes nuevas x 2 créditos = 18 créditos.
 - Palabras aproximadas: ~4.100, equivalente a 26-28 minutos a ritmo de presentador.
 - Gráficos de apoyo sugeridos: siluetas de posturas forzadas, comparación de puesto mal/bien diseñado, checklists organizacionales e individuales.
 - Se puede grabar con demostración física de ajuste correcto de silla, pantalla y postura frente a una computadora.
