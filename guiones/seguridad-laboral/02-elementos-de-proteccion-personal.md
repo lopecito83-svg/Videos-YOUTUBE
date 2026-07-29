@@ -155,6 +155,25 @@ Soy el Lic. Antonio Diego López, y nos vemos en el próximo video.
 ## NOTAS DE PRODUCCIÓN PARA ESTE EPISODIO
 
 - Incluir la tarjeta de firma final (Lic. Antonio Diego LOPEZ) al cierre: https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_134451_34342352-f934-4eaa-98df-156770ecf7d3.png
+
+## GRÁFICOS DE APOYO GENERADOS (Higgsfield, estilo infografía corporativa)
+
+| Marca en el guion | Imagen |
+|---|---|
+| Título del episodio | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_134804_7b165624-05fb-41db-9f19-0b17f5d3c266.png |
+| Jerarquía de controles con EPP resaltado | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_134813_358922ae-3b08-4d50-8640-b6c9a9e13ff3.png |
+| Casco con fecha de fabricación | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_134818_6b004b0c-2973-45ef-9035-59c1a791acf3.png |
+| Escala de decibeles | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_134822_3824cc22-89af-48fc-938c-d656da28e041.png |
+| Cuadro tipos de guantes / riesgo | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_134832_3288cef3-bdf8-4fe9-b02c-82fdab03e597.png |
+| Silueta con EPP por zona | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_134837_58b031c3-3826-49e9-a496-4514eddd5a4d.png |
+| Diagrama de flujo selección de EPP | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_134848_8f092667-c42b-4115-9e14-9dd6fdec5438.png |
+| Comparación uso bien/mal puesto | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_134853_b5e4baa2-bc82-4bdd-93af-8dd7a66ed8b2.png |
+| Checklist inspeccionar/usar/limpiar/reemplazar | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_135114_c4b499e2-8a10-49c5-a38d-15f42d499016.png |
+| Lista de 5 errores comunes | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_135120_f9583772-c21f-42f7-bbdf-853ce9542b53.png |
+| Checklist de 5 preguntas | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_135125_4503f038-5b8c-464d-87ba-59408881cfb6.png |
+| Tarjeta de firma final | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_134451_34342352-f934-4eaa-98df-156770ecf7d3.png |
+
+Costo: 11 imágenes nuevas x 2 créditos = 22 créditos (`nano_banana_pro`, 1k).
 - Palabras aproximadas: ~4.150, equivalente a 27-29 minutos a ritmo de presentador.
 - Gráficos de apoyo sugeridos: silueta humana con EPP por zona, escala de decibeles, cuadro de tipos de guantes, comparaciones de uso correcto/incorrecto, checklist final.
 - Si se graba con EPP real de muestra en cámara (casco, guantes, protectores auditivos, arnés), el efecto didáctico mejora mucho — se puede mostrar cada elemento físicamente mientras se lo menciona.
