@@ -149,6 +149,25 @@ Soy el Lic. Antonio Diego López, y nos vemos en el próximo video.
 ## NOTAS DE PRODUCCIÓN PARA ESTE EPISODIO
 
 - Incluir la tarjeta de firma final (Lic. Antonio Diego LOPEZ) al cierre: https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_134451_34342352-f934-4eaa-98df-156770ecf7d3.png
+
+## GRÁFICOS DE APOYO GENERADOS (Higgsfield, estilo infografía corporativa)
+
+| Marca en el guion | Imagen |
+|---|---|
+| Título del episodio (con aviso legal) | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_143732_33cb8344-685e-4116-97d9-07a7dd028fce.png |
+| Daño visible vs daño interno | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_143740_057e8b0a-e355-4564-8bfc-457fb9af8695.png |
+| Recorrido de la corriente por el cuerpo | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_143811_eaab11f8-f6ad-4596-b1ac-7b4da88f76b2.png |
+| Cable en buen estado vs dañado | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_143901_80f3ab1e-8e71-4039-9eed-763d4b9e946e.png |
+| Tablero eléctrico señalizado | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_143915_1e30ecfc-2af5-43a8-b3d5-16b02de75b54.png |
+| Checklist de riesgos eléctricos comunes | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_143919_f683055b-7c53-4f61-9762-5a7580c88e70.png |
+| Checklist final de prevención | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_143922_117faa23-d3f5-4608-934d-4ca083d03a0f.png |
+| No tocar directamente a la persona en contacto | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_143924_d1e645b0-c777-456a-8642-8136d6f57968.png |
+| Secuencia de 4 pasos ante accidente eléctrico | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_144513_3fea70a7-8246-493c-aafa-376bb4d8a502.png |
+| Lista resumen de errores | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_144518_56a618dd-7c52-462b-b0ff-de0612f6a30b.png |
+| Checklist de 5 preguntas | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_144521_32dc7a39-6afd-4bb0-9755-f9bf669dbc85.png |
+| Tarjeta de firma final | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_134451_34342352-f934-4eaa-98df-156770ecf7d3.png |
+
+Costo: 11 imágenes nuevas x 2 créditos = 22 créditos.
 - Palabras aproximadas: ~4.150, equivalente a 27-29 minutos a ritmo de presentador.
 - **Incluir el aviso legal al inicio, leído textualmente a cámara.**
 - Gráficos de apoyo sugeridos: esquema de recorrido de corriente por el cuerpo, cable dañado vs en buen estado, secuencia de actuación frente a accidente eléctrico.
