@@ -153,6 +153,24 @@ Soy el Lic. Antonio Diego López, y nos vemos en el próximo video.
 ## NOTAS DE PRODUCCIÓN PARA ESTE EPISODIO
 
 - Incluir la tarjeta de firma final (Lic. Antonio Diego LOPEZ) al cierre: https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_134451_34342352-f934-4eaa-98df-156770ecf7d3.png
+
+## GRÁFICOS DE APOYO GENERADOS (Higgsfield, estilo infografía corporativa)
+
+| Marca en el guion | Imagen |
+|---|---|
+| Título del episodio | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_141408_b4b2509c-866d-456a-bf86-9365323de591.png |
+| Crecimiento del fuego en el tiempo | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_141413_89f32f3e-636d-4977-9442-88475f3ad722.png |
+| Clases de fuego A/B/C/D/K | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_141416_7f99bb9c-c6c8-44b6-9898-455fdb077e7f.png |
+| Matafuego de CO2 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_141420_bbfd3d40-e53d-40ed-98ae-7353170a8ca5.png |
+| Tabla clase de fuego / matafuego | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_141429_a7da7e7f-294b-4b68-a39a-13db86d10ac4.png |
+| Apuntar a llamas (mal) vs base (bien) | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_141434_66977ece-6184-4cfb-b2d5-d6220ea3ecf6.png |
+| Los 4 pasos de uso del matafuego | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_142321_202c996f-eb3d-46ea-8b27-980fbed106f7.png |
+| Señales para evacuar en vez de apagar | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_142332_22a830f5-b0a8-478b-9c24-a197f53865a4.png |
+| Lista resumen de errores | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_141454_134a0e3e-98e7-420b-bc89-eae5f64c1068.png |
+| Checklist de 5 preguntas | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_141458_3fdc2409-66b8-4633-983f-929b89120722.png |
+| Tarjeta de firma final | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_134451_34342352-f934-4eaa-98df-156770ecf7d3.png |
+
+Costo: 10 imágenes nuevas x 2 créditos = 20 créditos (2 se regeneraron por atasco de job, sin costo adicional real).
 - Palabras aproximadas: ~4.050, equivalente a 26-28 minutos a ritmo de presentador.
 - Gráficos de apoyo sugeridos: cuadro de clases de fuego, tabla clase de fuego/matafuego recomendado, secuencia de los 4 pasos de uso, checklist de señales para evacuar.
 - Idealmente grabar con un matafuego real en cámara (descargado o de práctica) para demostrar físicamente los 4 pasos de uso.
