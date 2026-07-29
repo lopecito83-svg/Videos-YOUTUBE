@@ -129,6 +129,23 @@ Soy el Lic. Antonio Diego López, y nos vemos en el próximo video.
 ## NOTAS DE PRODUCCIÓN PARA ESTE EPISODIO
 
 - Incluir la tarjeta de firma final (Lic. Antonio Diego LOPEZ) al cierre: https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_134451_34342352-f934-4eaa-98df-156770ecf7d3.png
+
+## GRÁFICOS DE APOYO GENERADOS (Higgsfield, estilo infografía corporativa)
+
+| Marca en el guion | Imagen |
+|---|---|
+| Título del episodio | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_142754_3e95d899-9fd0-4c5f-a043-e48e2d3eb1ef.png |
+| Columna con carga bien/mal alineada | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_142758_7d9380df-07d8-479f-801b-32118d9a2f87.png |
+| Carga cerca/lejos del cuerpo (palanca) | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_142801_a5d06755-5206-4078-8644-c81b5e9fb5db.png |
+| Secuencia de levantamiento correcto | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_142813_5cea145f-078e-4f43-b7ae-883e59285843.png |
+| Factores a considerar antes de levantar | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_142823_a1dd3708-29a7-4793-98df-90889f118ab8.png |
+| Ayudas mecánicas comunes | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_142828_7044ccf2-28af-4611-adad-466c875c59e5.png |
+| Checklist de factores adicionales | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_142835_04a10336-ac62-4483-a2d5-5f829a9daf1d.png |
+| Lista resumen de errores | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_142845_09e49072-29c5-4af6-afa2-67923c7dfc40.png |
+| Checklist de 5 preguntas | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_142854_4f2b0e2b-e253-4320-bdf0-470ffd79586a.png |
+| Tarjeta de firma final | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_134451_34342352-f934-4eaa-98df-156770ecf7d3.png |
+
+Costo: 9 imágenes nuevas x 2 créditos = 18 créditos.
 - Palabras aproximadas: ~4.000, equivalente a 25-27 minutos a ritmo de presentador.
 - Gráficos de apoyo sugeridos: esquema de columna con carga bien/mal alineada, secuencia completa del levantamiento correcto, ejemplos de ayudas mecánicas.
 - Se recomienda fuertemente grabar una demostración física completa de la técnica de levantamiento, con una caja o bulto de práctica, mostrando cada paso en cámara.
