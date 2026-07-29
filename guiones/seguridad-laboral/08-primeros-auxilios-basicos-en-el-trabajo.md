@@ -123,6 +123,24 @@ Soy el Lic. Antonio Diego López, y nos vemos en el próximo video.
 ## NOTAS DE PRODUCCIÓN PARA ESTE EPISODIO
 
 - Incluir la tarjeta de firma final (Lic. Antonio Diego LOPEZ) al cierre: https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_134451_34342352-f934-4eaa-98df-156770ecf7d3.png
+
+## GRÁFICOS DE APOYO GENERADOS (Higgsfield, estilo infografía corporativa)
+
+| Marca en el guion | Imagen |
+|---|---|
+| Título del episodio (con aviso legal) | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_143024_e1962e4a-baf6-47e4-8f89-3d00282d0bba.png |
+| Cadena de supervivencia | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_143029_852ae5b9-eb07-4bf1-8cfd-f92b24a17d73.png |
+| Evaluar la escena antes de acercarse | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_143032_55fee18a-0c93-4692-ad5c-730f2dc5b474.png |
+| Número de emergencias | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_143036_e1942908-6009-4d41-b153-36e0ea03af7d.png |
+| Presión directa sobre una herida | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_143045_c5615a7e-b778-4857-ad9d-b847a887bc24.png |
+| Posición lateral de seguridad | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_143049_f8f139b2-e594-4be5-958f-654ba85a4731.png |
+| Recordatorio curso certificado | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_143053_0f30e60c-8209-4510-af43-f1a0bf444e7f.png |
+| Botiquín etiquetado | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_143057_3153ccc1-c527-4aa6-b9fa-3983d6dc85de.png |
+| Lista resumen de errores | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_143113_9097f567-a184-47a0-946c-81700f95ffe3.png |
+| Checklist de 5 preguntas | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_143117_0240e4c1-7ab0-4d6f-a07a-225959d766e2.png |
+| Tarjeta de firma final | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_134451_34342352-f934-4eaa-98df-156770ecf7d3.png |
+
+Costo: 10 imágenes nuevas x 2 créditos = 20 créditos.
 - Palabras aproximadas: ~4.100, equivalente a 26-28 minutos a ritmo de presentador.
 - **Incluir el aviso legal/de responsabilidad al inicio del video, leído textualmente a cámara**, y repetirlo brevemente en la descripción escrita del video al publicarlo en YouTube.
 - Gráficos de apoyo sugeridos: cadena de supervivencia, posición lateral de seguridad, foto de botiquín etiquetado, checklist final.
