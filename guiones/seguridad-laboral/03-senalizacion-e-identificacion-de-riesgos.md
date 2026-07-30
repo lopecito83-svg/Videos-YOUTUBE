@@ -180,6 +180,23 @@ Soy el Lic. Antonio Diego López, y nos vemos en el próximo video.
 | Tarjeta de firma final | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_134451_34342352-f934-4eaa-98df-156770ecf7d3.png |
 
 Costo: 11 imágenes nuevas x 2 créditos = 22 créditos.
+
+## NARRACIÓN GENERADA (voz IA — Roman, ElevenLabs vía Higgsfield `text2speech_v2`)
+
+| Sección | Duración | Audio |
+|---|---|---|
+| Gancho inicial | 1:00 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_160200_aa40d6dc-a0dd-439a-b5e4-38b2a4619f96.mp3 |
+| Por qué importa | 1:10 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_160203_bf53ac2a-dbab-455c-b359-3d342f52de84.mp3 |
+| El código de colores y formas | 3:24 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_160213_7a148c33-a0d4-4275-a7f0-c8d7597d17fb.mp3 |
+| Señalización de sustancias químicas: sistema GHS | 1:23 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260730_122438_2abda174-6462-4520-8e06-d3e1ba09a021.mp3 |
+| Identificación de riesgos: más allá de los carteles | 2:29 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260730_122449_ce563c8b-e929-4487-ab20-73a728cd5d7a.mp3 |
+| Errores comunes | 1:04 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260730_122500_bef29510-e387-4a11-ba98-515c8f41631d.mp3 |
+| Checklist práctico | 0:44 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260730_122513_441a235b-46a2-4722-b87f-4a37c82d3781.mp3 |
+| Resumen de puntos clave | 0:46 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260730_122525_54403c33-f366-40d6-8c2f-ce69a4c4afae.mp3 |
+| Cierre y llamado a la acción | 0:43 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260730_122530_4372c04c-6f23-48eb-9efd-56c7f49aff6d.mp3 |
+
+Duración total de narración: ~12:43. Para armar el video final de 25+ minutos, combinar esta narración con las imágenes de apoyo listadas arriba (usando los marcadores `[CORTE A: ...]` como guía de timing), agregando pausas/B-roll adicional según necesidad del editor.
+
 - Palabras aproximadas: ~4.050, equivalente a 26-28 minutos a ritmo de presentador.
 - Gráficos de apoyo sugeridos: cuadro de colores de señalización, formas geométricas, pictogramas GHS, las 5 categorías de observación de riesgos.
 - Si se graba en un lugar de trabajo real, se puede mostrar señalización efectiva junto con ejemplos de señalización mal mantenida (siempre con la autorización correspondiente del lugar).
