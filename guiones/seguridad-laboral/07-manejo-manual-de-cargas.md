@@ -146,6 +146,22 @@ Soy el Lic. Antonio Diego López, y nos vemos en el próximo video.
 | Tarjeta de firma final | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_134451_34342352-f934-4eaa-98df-156770ecf7d3.png |
 
 Costo: 9 imágenes nuevas x 2 créditos = 18 créditos.
+
+## NARRACIÓN GENERADA (voz IA — Roman, ElevenLabs vía Higgsfield `text2speech_v2`)
+
+| Sección | Duración | Audio |
+|---|---|---|
+| Gancho inicial | 0:55 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260730_140825_36dca23b-c9da-4d96-a8a4-4cbc7a53eacd.mp3 |
+| Por qué importa | 0:50 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260730_140831_b82c4b8f-e6b8-435f-8fb2-716e15ce5b12.mp3 |
+| La técnica correcta de levantamiento | 2:34 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260730_140848_25fc0171-cf87-4698-a31d-104659475347.mp3 |
+| Cuándo pedir ayuda o usar medios mecánicos | 2:02 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260730_140911_b15755ac-3921-492f-bf46-e61b382d8a73.mp3 |
+| Factores adicionales a considerar | 1:27 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260730_140918_fa84fc09-3d49-4921-834b-0714c2ec44b7.mp3 |
+| Errores comunes | 0:38 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260730_140928_40c41170-1179-4bbe-afe1-f89b21aedda8.mp3 |
+| Checklist práctico | 0:36 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260730_140933_f6c2950b-3829-46d4-ba29-85fb7f511c7a.mp3 |
+| Resumen y cierre | 1:25 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260730_140939_eb5b92d1-622f-4094-b6d5-0282bf4b30b2.mp3 |
+
+Duración total de narración: ~10:27. Para armar el video final de 25+ minutos, combinar esta narración con las imágenes de apoyo listadas arriba (usando los marcadores `[CORTE A: ...]` como guía de timing), agregando pausas/B-roll adicional según necesidad del editor.
+
 - Palabras aproximadas: ~4.000, equivalente a 25-27 minutos a ritmo de presentador.
 - Gráficos de apoyo sugeridos: esquema de columna con carga bien/mal alineada, secuencia completa del levantamiento correcto, ejemplos de ayudas mecánicas.
 - Se recomienda fuertemente grabar una demostración física completa de la técnica de levantamiento, con una caja o bulto de práctica, mostrando cada paso en cámara.
