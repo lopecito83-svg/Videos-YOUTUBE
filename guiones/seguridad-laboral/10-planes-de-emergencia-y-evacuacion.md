@@ -155,6 +155,22 @@ Gracias por acompañarme en toda esta serie. Como dije al principio: la segurida
 | Tarjeta de firma final | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_134451_34342352-f934-4eaa-98df-156770ecf7d3.png |
 
 Costo: 10 imágenes nuevas x 2 créditos = 20 créditos.
+
+## NARRACIÓN GENERADA (voz IA — Roman, ElevenLabs vía Higgsfield `text2speech_v2`)
+
+| Sección | Duración | Audio |
+|---|---|---|
+| Gancho inicial | 0:58 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260730_145756_2fc81078-cca7-4936-ab48-811a5ecc2a8a.mp3 |
+| Por qué importa | 1:07 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260730_145800_717248c4-1e24-42f5-8ba4-983e5fc9abe8.mp3 |
+| Los componentes de un plan de emergencia | 3:00 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260730_145809_3c79f4e4-3a6d-4fbb-9fa6-ca15c2faa638.mp3 |
+| Roles clave en una evacuación | 2:02 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260730_145840_f5d32854-c9d6-478c-9922-0fb16efa772f.mp3 |
+| Cómo practicar: los simulacros | 2:21 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260730_145845_f4f2bd1b-2040-4834-b4e3-e45fce18ed11.mp3 |
+| Errores comunes | 0:36 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260730_150550_edc63606-8d0d-4922-b1f3-f042101d085d.mp3 |
+| Checklist práctico | 0:34 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260730_150605_3a829181-3075-4587-a8f1-2ec67b1cd159.mp3 |
+| Resumen y cierre de la temporada | **PENDIENTE — sin generar** | Se agotó el saldo de créditos de Higgsfield antes de generar esta última sección. Usar el texto del guion (líneas 121-131) para generarla apenas se recargue el saldo, o grabarla con voz humana. |
+
+Duración total de narración generada: ~10:39 (falta la sección de cierre final). Para armar el video final de 25+ minutos, combinar esta narración con las imágenes de apoyo listadas arriba (usando los marcadores `[CORTE A: ...]` como guía de timing), agregando pausas/B-roll adicional según necesidad del editor.
+
 - Palabras aproximadas: ~4.150, equivalente a 27-29 minutos a ritmo de presentador.
 - Gráficos de apoyo sugeridos: plano de rutas de evacuación principal/alternativa, cuadro de roles clave, ciclo de mejora de simulacros.
 - Cierre de temporada: se puede aprovechar para un resumen visual rápido con las miniaturas o títulos de los 10 videos de la temporada, como refuerzo de continuidad de la serie.
