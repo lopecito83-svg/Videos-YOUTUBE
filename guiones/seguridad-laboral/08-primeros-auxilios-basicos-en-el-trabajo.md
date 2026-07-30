@@ -141,6 +141,22 @@ Soy el Lic. Antonio Diego López, y nos vemos en el próximo video.
 | Tarjeta de firma final | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_134451_34342352-f934-4eaa-98df-156770ecf7d3.png |
 
 Costo: 10 imágenes nuevas x 2 créditos = 20 créditos.
+
+## NARRACIÓN GENERADA (voz IA — Roman, ElevenLabs vía Higgsfield `text2speech_v2`)
+
+| Sección | Duración | Audio |
+|---|---|---|
+| Aviso legal + Gancho inicial | 1:11 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260730_142714_44d3e97f-ed93-4f45-acfb-e5e6a8064ea8.mp3 |
+| Por qué importa | 0:46 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260730_142726_72bc85e4-29ce-4b74-b554-f45fbfe7047a.mp3 |
+| El proceso general: evaluar, actuar, llamar | 2:03 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260730_142731_d2e0725d-f90c-4411-a483-1538fd720087.mp3 |
+| Situaciones específicas frecuentes | 4:23 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260730_142810_d1133a42-a1d0-4aea-8696-b0bcc1be746a.mp3 |
+| El botiquín de primeros auxilios | 0:42 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260730_143041_b974231b-45e1-4283-a157-5eedb26cfcaf.mp3 |
+| Errores comunes | 0:35 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260730_143103_9a4959cb-8eb0-4a27-92d1-0a59795afcbd.mp3 |
+| Checklist práctico | 0:33 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260730_143109_473114b7-3b64-49a3-9cc1-01b9bd342c17.mp3 |
+| Resumen y cierre | 1:10 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260730_143113_1843a51f-37f9-4266-9d40-bd67ecdeaf21.mp3 |
+
+Duración total de narración: ~11:24. Para armar el video final de 25+ minutos, combinar esta narración con las imágenes de apoyo listadas arriba (usando los marcadores `[CORTE A: ...]` como guía de timing), agregando pausas/B-roll adicional según necesidad del editor.
+
 - Palabras aproximadas: ~4.100, equivalente a 26-28 minutos a ritmo de presentador.
 - **Incluir el aviso legal/de responsabilidad al inicio del video, leído textualmente a cámara**, y repetirlo brevemente en la descripción escrita del video al publicarlo en YouTube.
 - Gráficos de apoyo sugeridos: cadena de supervivencia, posición lateral de seguridad, foto de botiquín etiquetado, checklist final.
