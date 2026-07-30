@@ -156,6 +156,22 @@ Soy el Lic. Antonio Diego López, y nos vemos en el próximo video.
 | Tarjeta de firma final | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_134451_34342352-f934-4eaa-98df-156770ecf7d3.png |
 
 Costo: 9 imágenes nuevas x 2 créditos = 18 créditos.
+
+## NARRACIÓN GENERADA (voz IA — Roman, ElevenLabs vía Higgsfield `text2speech_v2`)
+
+| Sección | Duración | Audio |
+|---|---|---|
+| Gancho inicial | 1:04 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260730_123740_763b743c-701b-4871-b2e0-748462cc8ed6.mp3 |
+| Por qué importa | 1:14 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260730_123748_ac7d8e9b-1b96-459d-a34c-32c7b2c7ab4c.mp3 |
+| Los principales factores de riesgo ergonómico | 2:24 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260730_123758_ada564c1-259b-4a24-818c-483ef9ab6a0c.mp3 |
+| Ergonomía en el trabajo de oficina | 1:41 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260730_123812_ae37147c-7270-4fb0-be6d-e2df62352d37.mp3 |
+| Qué hacer: prevención organizacional e individual | 2:28 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260730_124550_c415c31e-e3b8-4562-91b1-413ed589cc25.mp3 |
+| Errores comunes | 0:36 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260730_125407_85d8c7a1-1715-4587-9777-763c7f2c39f2.mp3 |
+| Checklist práctico | 0:39 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260730_125433_1cc73107-6c95-4a29-8d7d-be1f6b4440a0.mp3 |
+| Resumen y cierre | 1:08 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260730_140658_2e2b241b-0ca5-4cc5-8b8c-6f4019610d2b.mp3 |
+
+Duración total de narración: ~11:14. Para armar el video final de 25+ minutos, combinar esta narración con las imágenes de apoyo listadas arriba (usando los marcadores `[CORTE A: ...]` como guía de timing), agregando pausas/B-roll adicional según necesidad del editor.
+
 - Palabras aproximadas: ~4.100, equivalente a 26-28 minutos a ritmo de presentador.
 - Gráficos de apoyo sugeridos: siluetas de posturas forzadas, comparación de puesto mal/bien diseñado, checklists organizacionales e individuales.
 - Se puede grabar con demostración física de ajuste correcto de silla, pantalla y postura frente a una computadora.
