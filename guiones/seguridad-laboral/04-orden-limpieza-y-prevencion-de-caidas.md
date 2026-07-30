@@ -170,6 +170,22 @@ Soy el Lic. Antonio Diego López, y nos vemos en el próximo video.
 | Tarjeta de firma final | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_134451_34342352-f934-4eaa-98df-156770ecf7d3.png |
 
 Costo: 11 imágenes nuevas x 2 créditos = 22 créditos.
+
+## NARRACIÓN GENERADA (voz IA — Roman, ElevenLabs vía Higgsfield `text2speech_v2`)
+
+| Sección | Duración | Audio |
+|---|---|---|
+| Gancho inicial | 0:58 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260730_122757_1df92395-eab1-49df-b972-9e82feee1f75.mp3 |
+| Por qué importa | 1:00 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260730_122821_e730b55f-8f12-4c3c-929e-8f462fafff74.mp3 |
+| La metodología 5S | 3:48 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260730_122825_386d204b-b6f3-4891-b438-737c3021c29e.mp3 |
+| Prevención específica de caídas y resbalones | 2:47 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260730_122849_4553d8e4-4c72-45ad-a657-cad48e940933.mp3 |
+| Errores comunes | 1:16 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260730_122855_6f19cfd7-bf38-4608-bcd9-5879b7fae3c6.mp3 |
+| Checklist práctico | 0:37 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260730_122905_1a8c665a-a52b-4ff0-993f-6a0463f7d377.mp3 |
+| Resumen de puntos clave | 0:40 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260730_122921_6eaa81aa-0ef4-432f-86af-4fbe35ecb4b7.mp3 |
+| Cierre y llamado a la acción | 0:41 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260730_122927_69ae0c87-4746-4209-ad4e-fa769315c695.mp3 |
+
+Duración total de narración: ~11:47. Para armar el video final de 25+ minutos, combinar esta narración con las imágenes de apoyo listadas arriba (usando los marcadores `[CORTE A: ...]` como guía de timing), agregando pausas/B-roll adicional según necesidad del editor.
+
 - Palabras aproximadas: ~4.100, equivalente a 26-28 minutos a ritmo de presentador.
 - Gráficos de apoyo sugeridos: fotos antes/después de aplicar 5S, panel de herramientas con siluetas, esquemas de resbalón vs tropiezo, checklists de prevención.
 - Se puede grabar con ejemplos reales de un espacio de trabajo (con autorización), mostrando tanto buenas prácticas como puntos de mejora concretos.
