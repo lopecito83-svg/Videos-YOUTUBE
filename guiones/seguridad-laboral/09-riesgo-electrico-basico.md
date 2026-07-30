@@ -168,6 +168,23 @@ Soy el Lic. Antonio Diego López, y nos vemos en el próximo video.
 | Tarjeta de firma final | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260729_134451_34342352-f934-4eaa-98df-156770ecf7d3.png |
 
 Costo: 11 imágenes nuevas x 2 créditos = 22 créditos.
+
+## NARRACIÓN GENERADA (voz IA — Roman, ElevenLabs vía Higgsfield `text2speech_v2`)
+
+| Sección | Duración | Audio |
+|---|---|---|
+| Aviso legal + Gancho inicial | 0:58 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260730_145227_2de024cd-3016-4cc7-b4f9-84e663035da2.mp3 |
+| Por qué importa | 0:56 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260730_145232_9f6647b5-00fe-4492-a5ba-a52198eaa74e.mp3 |
+| Conceptos básicos para entender el riesgo | 1:51 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260730_145250_edf0f0d2-99fb-42e2-a325-f8ea94302606.mp3 |
+| Riesgos eléctricos comunes en cualquier entorno de trabajo | 2:28 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260730_145340_3835ad70-e9f0-40dc-a2c7-3701c85abf9e.mp3 |
+| Prevención básica para cualquier trabajador | 2:14 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260730_145344_d06127c8-bd89-4a08-8456-5854abb1f158.mp3 |
+| Qué hacer frente a un accidente eléctrico | 1:40 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260730_145412_54967da4-a1b2-4f84-a3ff-a82a1943aa61.mp3 |
+| Errores comunes | 0:25 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260730_145426_d739805f-245b-4409-8e7e-12736d50c8b4.mp3 |
+| Checklist práctico | 0:33 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260730_145431_1f1f62b9-6683-4ecf-bcdd-68d6404e40b5.mp3 |
+| Resumen y cierre | 1:11 | https://d8j0ntlcm91z4.cloudfront.net/user_3GxEMiqnR2zWOQRKDIe0jXd0pRt/hf_20260730_145438_c7dfefa1-41d6-45a1-9b7d-a8d454fde934.mp3 |
+
+Duración total de narración: ~12:15. Para armar el video final de 25+ minutos, combinar esta narración con las imágenes de apoyo listadas arriba (usando los marcadores `[CORTE A: ...]` como guía de timing), agregando pausas/B-roll adicional según necesidad del editor.
+
 - Palabras aproximadas: ~4.150, equivalente a 27-29 minutos a ritmo de presentador.
 - **Incluir el aviso legal al inicio, leído textualmente a cámara.**
 - Gráficos de apoyo sugeridos: esquema de recorrido de corriente por el cuerpo, cable dañado vs en buen estado, secuencia de actuación frente a accidente eléctrico.
